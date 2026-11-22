@@ -1,0 +1,50 @@
+{
+ "asOf": "2026-11-22",
+ "us10y": {
+  "date": "2026-11-19",
+  "value": 0.0504
+ },
+ "selic": {
+  "date": "2026-12-09",
+  "value": 0.1375
+ },
+ "ipcaFocus": {
+  "date": "2026-11-13",
+  "byYear": {
+   "2026": 0.05145400000000001,
+   "2027": 0.050183,
+   "2028": 0.04,
+   "2029": 0.04,
+   "2030": 0.04
+  },
+  "longRun": 0.04
+ },
+ "usInflationLongRun": 0.025,
+ "damodaran": {
+  "updated": "2026-01-01",
+  "matureErp": 0.0423,
+  "usErp": 0.0446,
+  "brazilCrp": 0.032409700472794394,
+  "brazilTotalErp": 0.07470970047279439,
+  "brazilDefaultSpread": 0.0212748888802989,
+  "brazilRating": "Ba1",
+  "source": "https://pages.stern.nyu.edu/~adamodar/pc/datasets/ctryprem.xlsx"
+ },
+ "usdbrl": {
+  "date": "2026-11-22",
+  "value": 5.9488
+ },
+ "toUsd": {
+  "USD": 1.0,
+  "BRL": 0.168101,
+  "EUR": 1.096972,
+  "TWD": 0.030336
+ },
+ "sources": {
+  "us10y": "FRED DGS10",
+  "selic": "BCB SGS 432",
+  "ipcaFocus": "BCB Focus (Olinda) \u2014 mediana IPCA",
+  "damodaran": "Damodaran Online \u2014 ctryprem.xlsx",
+  "usdbrl": "Yahoo Finance BRL=X"
+ }
+}
